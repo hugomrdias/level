@@ -14,7 +14,7 @@
   },
   "browser": "browser.js",
   "dependencies": {
-    "level-js": "^5.0.0",
+    "level-js": "hugomrdias/level-js#fix/add-buffer",
     "level-packager": "^5.1.0",
     "leveldown": "^5.4.0"
   },
